@@ -25,6 +25,7 @@ Developed by: AASHIK.A
 RegisterNumber:  25012808
 */
 ```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -83,6 +84,7 @@ predicted_salary = model.predict(new_exp)
 
 print("Predicted Salary for 5 years experience:", predicted_salary[0])
 
+```
 
 ## Output:
 
